@@ -23,8 +23,6 @@
   padding-bottom: 20px;
 }
 
-
-
 .white {
   color: #fff;
 }
@@ -49,7 +47,6 @@
   color: white;
   max-width: 40%;
   font-size: 21px;
-
 }
 
 ul { 
@@ -90,9 +87,6 @@ html, body {
     color: white;
     max-width: 70%;
     font-size: 21px;
-
-
-
   }
 
   .intro {
@@ -110,8 +104,4 @@ html, body {
     color: #aaa;
     padding-bottom: 20px;
   }
-
 }
-
-
-

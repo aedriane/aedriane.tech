@@ -64,11 +64,6 @@ function App() {
           Copyright © 2021 aedriane.tech
         </p>
 
-
-
-
-
-
       </header>
     </div>
   );
