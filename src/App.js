@@ -27,7 +27,7 @@ function App() {
         </p>
         <p className="workpara">         
           Currently, I am a Desktop Lead Engineer for Securelogic Solutions, an MSP based in Melbourne, Australia. 
-          If you're keen to know more, take a peak at my resume <a href="https://drive.google.com/file/d/12ywt35tTCMybG9vjsG_ZT6OEuMVThlP2/view?usp=sharing" target="_blank" className="white">here.</a>
+          If you're keen to know more, take a peak at my resume <a href="https://drive.google.com/file/d/12ywt35tTCMybG9vjsG_ZT6OEuMVThlP2/view?usp=sharing" target="_blank" rel="noreferrer" className="white">here.</a>
         </p>
 
         <p className="interests">
@@ -57,7 +57,7 @@ function App() {
         </p>
         <p className="contactpara">       
           Kindly shoot me an <a href="mailto:aedrianehernan@gmail.com" className="white">email</a> if you're keen to have a chat.
-          If you're not huge on electronic mail, feel free to drop by via <a href="https://www.linkedin.com/in/aedriane/" target="_blank" className="white">LinkedIn.</a>
+          If you're not huge on electronic mail, feel free to drop by via <a href="https://www.linkedin.com/in/aedriane/" target="_blank" rel="noreferrer" className="white">LinkedIn.</a>
         </p> 
 
         <p className="footer">
