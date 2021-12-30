@@ -47,7 +47,7 @@ function App() {
         </p>
 
         <p className="projects">
-          Interests.
+          Projects.
         </p>
         <p className="projectspara">       
           Watch this space. 👀 
