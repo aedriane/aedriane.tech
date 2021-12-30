@@ -17,8 +17,9 @@ function App() {
         About me.
         </p>
         <p className="aboutmepara">
-          I'm a dude who lives and breathes tech. Present me with a problem, and I will bounce back with a solution (99.98% of the time). 
-          I'm a huge music enthusiast, and play some mad guitar in my leisure and hopelessly attempt to produce music.<br />
+          I live and breathe technology. Present me with a problem, and I will return a solution.
+          Cloud technologies such as AWS and Azure are what I am currently venturing into.
+          I'm a huge music enthusiast, and dabble with guitar in my leisure and hopelessly attempt to produce music.<br />
           I am currently based in Melbourne, Australia.
         </p>
 
@@ -49,7 +50,7 @@ function App() {
           Interests.
         </p>
         <p className="projectspara">       
-          Watch this space, bruh. 👀 
+          Watch this space. 👀 
         </p> 
 
         <p className="contact">
